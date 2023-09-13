@@ -1,0 +1,14 @@
+C:\Users\Antonio\source\repos\TeoremaOchoReinas\bin\Debug\net6.0\TeoremaOchoReinas.exe
+C:\Users\Antonio\source\repos\TeoremaOchoReinas\bin\Debug\net6.0\TeoremaOchoReinas.deps.json
+C:\Users\Antonio\source\repos\TeoremaOchoReinas\bin\Debug\net6.0\TeoremaOchoReinas.runtimeconfig.json
+C:\Users\Antonio\source\repos\TeoremaOchoReinas\bin\Debug\net6.0\TeoremaOchoReinas.dll
+C:\Users\Antonio\source\repos\TeoremaOchoReinas\bin\Debug\net6.0\TeoremaOchoReinas.pdb
+C:\Users\Antonio\source\repos\TeoremaOchoReinas\obj\Debug\net6.0\TeoremaOchoReinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\source\repos\TeoremaOchoReinas\obj\Debug\net6.0\TeoremaOchoReinas.AssemblyInfoInputs.cache
+C:\Users\Antonio\source\repos\TeoremaOchoReinas\obj\Debug\net6.0\TeoremaOchoReinas.AssemblyInfo.cs
+C:\Users\Antonio\source\repos\TeoremaOchoReinas\obj\Debug\net6.0\TeoremaOchoReinas.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\TeoremaOchoReinas\obj\Debug\net6.0\TeoremaOchoReinas.dll
+C:\Users\Antonio\source\repos\TeoremaOchoReinas\obj\Debug\net6.0\refint\TeoremaOchoReinas.dll
+C:\Users\Antonio\source\repos\TeoremaOchoReinas\obj\Debug\net6.0\TeoremaOchoReinas.pdb
+C:\Users\Antonio\source\repos\TeoremaOchoReinas\obj\Debug\net6.0\TeoremaOchoReinas.genruntimeconfig.cache
+C:\Users\Antonio\source\repos\TeoremaOchoReinas\obj\Debug\net6.0\ref\TeoremaOchoReinas.dll
